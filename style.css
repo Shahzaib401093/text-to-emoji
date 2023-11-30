@@ -200,7 +200,7 @@ footer {
 }
 @media (max-width: 639px) {
     #main #endec-div {
-        width: 85%;
+        width: 72%;
     }
     #encryption{
         width: 90%;
@@ -219,7 +219,7 @@ footer {
   
   @media (min-width: 641px) and (max-width: 767px) {
     #main #endec-div {
-        width: 65%;
+        width: 53%;
     }
     #encryption{
         width: 65%;
@@ -234,7 +234,7 @@ footer {
   
   @media (min-width: 768px) and (max-width: 959px) {
     #main #endec-div {
-        width: 55%;
+        width: 47%;
     }
     #encryption{
         width: 55%;
@@ -246,7 +246,7 @@ footer {
   
   @media (min-width: 960px) {
     #main #endec-div {
-        width: 45%;
+        width: 38%;
     }
     #encryption{
         width: 45%;
